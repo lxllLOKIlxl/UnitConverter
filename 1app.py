@@ -25,8 +25,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Назва вашого додатка з емодзі
-st.title("🌟 Конвертер одиниць вимірювання 🌟")
+# Назва вашого додатка
+st.markdown("<h3 style='text-align: center;'>🌟 Конвертер одиниць вимірювання 🌟</h3>", unsafe_allow_html=True)
 
 # Вибір категорії одиниць
 category = st.selectbox("🔍 Оберіть категорію:", ["Довжина", "Вага", "Температура"])

@@ -103,6 +103,6 @@ if st.session_state["history"]:
 
 # Підпис автора
 st.markdown(
-    "<div style='text-align: left; font-size: 12px; color: gray;'>Програму виконав Студент 1 курсу Мемих Олег</div>",
+    "<div style='text-align: left; font-size: 12px; color: gray;'>Програму виконав Студент 1 курсу Мемех Олег</div>",
     unsafe_allow_html=True
 )
